@@ -1,8 +1,6 @@
-# React + Vite
+# React - Redux & RTK
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a learning project , to implement and understand redux and RTK.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- More on react-redux : https://react-redux.js.org/
+- More on react-redux-toolkit : https://redux-toolkit.js.org/
